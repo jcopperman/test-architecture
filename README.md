@@ -1,5 +1,3 @@
-# test-architecture
-
 # Fictitious Web Application - Microservice Test Plan
 
 This repository contains the test plan and test scenarios for the Fictitious Web Application, which utilizes a microservices architecture and follows DevOps practices. The test plan outlines the testing strategy, testing types, environments, and schedules. The test scenarios cover a range of functional and non-functional aspects to ensure the application's quality.
@@ -116,4 +114,4 @@ The testing strategy embraces DevOps practices and emphasizes shifting testing l
 
 ---
 
-Feel free to customize and use this `README.md` as the documentation for your GitHub repository. It provides a clear overview of the test plan, testing strategy, types of testing, scenarios, and other relevant information.
+
