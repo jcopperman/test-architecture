@@ -1,0 +1,11 @@
+// API Test for an Endpoint
+pm.test("Status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+
+pm.test("Response time is within acceptable limits", function () {
+    pm.expect(pm.response.responseTime).to.be.below(1000); // Milliseconds
+});
+
+// Add more tests specific to your API endpoint
+// For example, check response structure, data, etc.
